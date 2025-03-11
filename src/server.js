@@ -1,15 +1,6 @@
 'use strict';
 
 /* 
-TODO: 
--Implement jobsdatabase.users in the mySQL Database by creating more data
--Discover if can get json file online
--Create DB Sql queries to fill in data and test back end
-DONE
--Create front end in react.js
-
-
-
 */
 
 // server.js code to use express for entry point
